@@ -10,3 +10,5 @@
 - Compail CNN model
 - Fit CNN model
 - [Save model ]("https://keras.io/api/models/model_saving_apis/")
+- Create [Flask]("https://flask.palletsprojects.com/en/1.1.x/") App
+- Deploy 
