@@ -27,3 +27,22 @@
 - pillow>=8.0.1
 - tensorflow>=2.2.0
 - keras>=2.4.3
+
+## Own Custom Model 
+- keras.layers.Conv2D
+- keras.layers.MaxPooling2D
+- keras.layers.Conv2D
+- keras.layers.MaxPooling2D                         
+- keras.layers.Conv2D                                    
+- keras.layers.MaxPooling2D                                     
+- keras.layers.Conv2D                                   
+- keras.layers.MaxPooling2D                                   
+
+- keras.layers.Dropout
+- keras.layers.Flatten                                    
+- keras.layers.Dense                                   
+- keras.layers.Dropout                                   
+- keras.layers.Dense                                   
+- keras.layers.Dropout                              
+- keras.layers.Dense                                     
+                                                                   
